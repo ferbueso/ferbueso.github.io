@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "From Clinical AI Research to Global Cybersecurity — Making AI Deployment Safe and Real"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
