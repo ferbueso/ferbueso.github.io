@@ -2,7 +2,6 @@
 title: "Chest X-Ray Pneumonia Detection"
 excerpt: "Deep learning model for automated pneumonia detection from chest X-rays using CNNs."
 collection: portfolio
-image: "/images/xray-preview.png"
 ---
 
 A computer vision project applying deep learning to classify chest X-rays as normal or pneumonia-positive, supporting faster and more accurate clinical diagnosis.
@@ -13,7 +12,5 @@ A computer vision project applying deep learning to classify chest X-rays as nor
 - Applied techniques to handle class imbalance common in medical imaging datasets
 
 **Tools & Technologies:** Python, TensorFlow, OpenCV, numpy, matplotlib
-
-![Project Preview](/images/xray-preview.png)
 
 [View on GitHub](https://github.com/ferbueso/chest-xray-pneumonia-detection)
