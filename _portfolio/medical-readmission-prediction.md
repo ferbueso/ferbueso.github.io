@@ -2,6 +2,7 @@
 title: "Medical Readmission Prediction"
 excerpt: "Machine learning pipeline to predict hospital readmission risk in patients."
 collection: portfolio
+/images/readmission-preview.png
 ---
 
 A predictive modelling project focused on identifying patients at high risk of hospital readmission, enabling earlier intervention and better resource allocation.
