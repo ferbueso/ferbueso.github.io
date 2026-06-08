@@ -3,7 +3,7 @@ title: "Chest X-Ray Pneumonia Detection"
 excerpt: "Deep learning model for automated pneumonia detection from chest X-rays using CNNs."
 collection: portfolio
 header:
-  teaser: /images/xray-preview.png
+  teaser: "xray-preview.png"
 ---
 
 A computer vision project applying deep learning to classify chest X-rays as normal or pneumonia-positive, supporting faster and more accurate clinical diagnosis.
