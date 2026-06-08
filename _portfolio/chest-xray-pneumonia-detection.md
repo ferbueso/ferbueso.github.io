@@ -14,4 +14,6 @@ A computer vision project applying deep learning to classify chest X-rays as nor
 
 **Tools & Technologies:** Python, TensorFlow, OpenCV, numpy, matplotlib
 
+![Project Preview](/images/xray-preview.png)
+
 [View on GitHub](https://github.com/ferbueso/chest-xray-pneumonia-detection)
